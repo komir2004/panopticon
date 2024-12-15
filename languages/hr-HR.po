@@ -5351,7 +5351,7 @@ msgstr ""
 #, phpformat
 msgctxt "PANOPTICON_SITES_MENU_AKEEBABACKUP_SCHEDULE"
 msgid "Backup"
-msgstr "Povratak"
+msgstr "Sigurnosna kopija"
 
 #, phpformat
 msgctxt "PANOPTICON_SITE_LBL_AKEEBABACKUP_NO_RESULTS"
