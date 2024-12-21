@@ -16,7 +16,7 @@ msgstr "Croatian - Croatia"
 #, phpformat
 msgctxt "LANGUAGE_NAME_TRANSLATED"
 msgid "English – United Kingdom"
-msgstr "Hrvatski"
+msgstr "Hrvatski - Hrvatska"
 
 #, phpformat
 msgctxt "AWF_100"
@@ -2616,22 +2616,22 @@ msgstr ""
 #, phpformat
 msgctxt "PANOPTICON_APP_MENU_TITLE_OVERVIEW"
 msgid "Overview"
-msgstr ""
+msgstr "Pregled"
 
 #, phpformat
 msgctxt "PANOPTICON_MAIN_TITLE"
 msgid "Sites Overview"
-msgstr ""
+msgstr "Pregled stranica"
 
 #, phpformat
 msgctxt "PANOPTICON_MAIN_SITES_LBL_MY_SITES_MANAGE"
 msgid "Manage Sites"
-msgstr ""
+msgstr "Upravljanje web stranicama"
 
 #, phpformat
 msgctxt "PANOPTICON_MAIN_SITES_LBL_MY_SITES_MANAGE_DASH"
 msgid "Dashboard"
-msgstr ""
+msgstr "Nadzorna ploča"
 
 #, phpformat
 msgctxt "PANOPTICON_MAIN_SITES_LBL_MY_SITES_MANAGE_TAB"
@@ -2656,22 +2656,22 @@ msgstr ""
 #, phpformat
 msgctxt "PANOPTICON_MAIN_SITES_THEAD_WORDPRESS"
 msgid "WordPress version"
-msgstr ""
+msgstr "WordPress verzija"
 
 #, phpformat
 msgctxt "PANOPTICON_MAIN_SITES_THEAD_CMS"
 msgid "CMS version"
-msgstr ""
+msgstr "CMS verzija"
 
 #, phpformat
 msgctxt "PANOPTICON_MAIN_SITES_THEAD_EXTENSIONS"
 msgid "Extensions status"
-msgstr ""
+msgstr "Status proširenja"
 
 #, phpformat
 msgctxt "PANOPTICON_MAIN_SITES_THEAD_PHP"
 msgid "PHP version"
-msgstr ""
+msgstr "PHP verzija"
 
 #, phpformat
 msgctxt "PANOPTICON_MAIN_SITES_LBL_URL_SCREENREADER"
@@ -6011,7 +6011,7 @@ msgstr ""
 #, phpformat
 msgctxt "PANOPTICON_SYSCONFIG_LBL_SUBHEAD_DASHBOARD"
 msgid "Dashboard Preferences"
-msgstr ""
+msgstr "Postavke nadzorne ploče"
 
 #, phpformat
 msgctxt "PANOPTICON_SYSCONFIG_LBL_SUBHEAD_EMAIL"
@@ -7685,7 +7685,7 @@ msgstr "Omogući"
 
 #, phpformat
 msgctxt "PANOPTICON_USERS_LBL_FIELD_MAIN_LAYOUT_OPT_DASHBOARD"
-msgid "Dashboard"
+msgid "Nadzorna ploča"
 msgstr ""
 
 #, phpformat
